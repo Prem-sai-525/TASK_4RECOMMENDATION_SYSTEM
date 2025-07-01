@@ -1,4 +1,4 @@
-** Overview of the Recommendation System**
+**Overview of the Recommendation System**
 
 Objective:
 The main goal of this project is to build a Recommendation System that suggests items (such as movies, products, or books) to users based on their preferences and behavior. Recommendation systems enhance user experience by providing personalized content.
