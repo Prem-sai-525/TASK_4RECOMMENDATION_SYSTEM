@@ -1,9 +1,9 @@
 ** Overview of the Recommendation System**
 
-🧠 Objective:
+Objective:
 The main goal of this project is to build a Recommendation System that suggests items (such as movies, products, or books) to users based on their preferences and behavior. Recommendation systems enhance user experience by providing personalized content.
 
-🧾 Core Components:
+Core Components:
 1. Data Loading and Exploration
 Loads a dataset that includes user-item interactions, such as:
 
@@ -56,7 +56,7 @@ Generates and displays item recommendations for specific users.
 
 May include a method to rank and display top suggestions.
 
-⚙️ Implementation Details
+Implementation Details
 Developed using Python with key libraries:
 
 pandas, numpy for data handling
